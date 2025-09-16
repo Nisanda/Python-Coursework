@@ -1,0 +1,101 @@
+JunctionName,Date,timeOfDay,travel_Direction_in,travel_Direction_out,Weather_Conditions,JunctionSpeedLimit,VehicleSpeed,VehicleType,elctricHybrid
+North Square/Broad Street,17/06/2024,13:14:01,NE,E,Sunny,40,34,Scooter,True
+King's Road/Queen's Lane,17/06/2024,07:47:30,SW,S,Rainy,50,18,Car,False
+Elm Avenue/Rabbit Road,17/06/2024,06:24:13,NW,S,Foggy,20,6,Car,True
+North Square/Broad Street,17/06/2024,00:08:36,S,NW,Sunny,30,28,Car,False
+King's Road/Queen's Lane,17/06/2024,10:17:21,NE,SW,Rainy,50,59,Car,True
+Hanley Highway/Westway,17/06/2024,07:00:12,NE,N,Cloudy,40,7,Motorcycle,False
+Willow Lane/Park Avenue,17/06/2024,10:25:35,SE,NW,Rainy,30,14,Scooter,True
+North Square/Broad Street,17/06/2024,14:46:40,NE,E,Sunny,50,34,Car,True
+Elm Avenue/Rabbit Road,17/06/2024,16:56:37,N,S,Foggy,30,8,Car,False
+Hanley Highway/Westway,17/06/2024,14:53:11,S,W,Rainy,30,58,Scooter,False
+Willow Lane/Park Avenue,17/06/2024,15:08:35,W,S,Rainy,40,25,Scooter,True
+Hanley Highway/Westway,17/06/2024,14:42:14,W,E,Cloudy,20,33,Bus,True
+Hanley Highway/Westway,17/06/2024,17:07:24,SE,NE,Foggy,50,40,Bus,False
+Hanley Highway/Westway,17/06/2024,16:48:44,E,W,Overcast,50,53,Scooter,True
+North Square/Broad Street,17/06/2024,01:13:06,N,E,Cloudy,20,60,Car,False
+King's Road/Queen's Lane,17/06/2024,03:54:18,SW,SW,Rainy,50,26,Truck,True
+Willow Lane/Park Avenue,17/06/2024,19:29:53,N,SE,Sunny,30,54,Scooter,True
+Elm Avenue/Rabbit Road,17/06/2024,17:20:33,E,E,Overcast,40,8,Bus,False
+Elm Avenue/Rabbit Road,17/06/2024,19:25:30,N,SE,Rainy,40,25,Bus,True
+King's Road/Queen's Lane,17/06/2024,17:11:25,W,E,Foggy,30,50,Scooter,False
+North Square/Broad Street,17/06/2024,21:57:22,SW,W,Overcast,30,27,Truck,False
+Hanley Highway/Westway,17/06/2024,06:35:16,N,N,Foggy,30,28,Bicycle,False
+Willow Lane/Park Avenue,17/06/2024,00:04:29,E,S,Overcast,50,5,Scooter,True
+King's Road/Queen's Lane,17/06/2024,11:56:04,SE,S,Rainy,20,60,Scooter,False
+King's Road/Queen's Lane,17/06/2024,19:03:14,NE,SW,Rainy,50,18,Bus,False
+Willow Lane/Park Avenue,17/06/2024,03:01:51,NW,NE,Overcast,30,5,Scooter,True
+North Square/Broad Street,17/06/2024,07:38:56,SW,NW,Foggy,50,19,Scooter,False
+North Square/Broad Street,17/06/2024,02:09:36,S,N,Foggy,50,36,Motorcycle,True
+North Square/Broad Street,17/06/2024,21:14:01,NE,S,Overcast,50,8,Truck,True
+King's Road/Queen's Lane,17/06/2024,22:53:53,E,SW,Cloudy,30,9,Truck,False
+Elm Avenue/Rabbit Road,17/06/2024,16:32:28,NW,SE,Overcast,20,18,Bus,True
+Willow Lane/Park Avenue,17/06/2024,15:57:03,W,NE,Sunny,30,41,Car,True
+Elm Avenue/Rabbit Road,17/06/2024,07:40:46,N,E,Cloudy,40,20,Car,False
+King's Road/Queen's Lane,17/06/2024,02:38:47,SE,NE,Overcast,30,35,Truck,False
+Elm Avenue/Rabbit Road,17/06/2024,23:03:02,NW,S,Overcast,30,42,Bicycle,True
+Willow Lane/Park Avenue,17/06/2024,02:07:15,E,SE,Cloudy,40,44,Bicycle,False
+Willow Lane/Park Avenue,17/06/2024,14:10:00,SW,SW,Sunny,30,37,Truck,True
+King's Road/Queen's Lane,17/06/2024,16:19:25,W,N,Sunny,50,38,Bicycle,False
+North Square/Broad Street,17/06/2024,17:50:30,E,E,Overcast,50,58,Truck,False
+North Square/Broad Street,17/06/2024,22:28:06,S,W,Cloudy,50,26,Bus,False
+Elm Avenue/Rabbit Road,17/06/2024,15:30:34,S,E,Foggy,40,49,Motorcycle,True
+Elm Avenue/Rabbit Road,17/06/2024,05:45:21,S,SE,Rainy,40,28,Scooter,True
+Elm Avenue/Rabbit Road,17/06/2024,19:44:42,S,SE,Foggy,40,24,Car,True
+North Square/Broad Street,17/06/2024,06:02:52,S,SE,Cloudy,20,37,Motorcycle,True
+Willow Lane/Park Avenue,17/06/2024,01:42:08,S,NE,Rainy,40,24,Bicycle,True
+Hanley Highway/Westway,17/06/2024,01:38:03,SE,E,Sunny,50,59,Scooter,True
+King's Road/Queen's Lane,17/06/2024,03:04:38,W,SE,Cloudy,50,11,Truck,False
+North Square/Broad Street,17/06/2024,07:25:14,W,E,Cloudy,50,49,Car,False
+Hanley Highway/Westway,17/06/2024,03:50:08,NE,W,Overcast,20,36,Car,False
+Willow Lane/Park Avenue,17/06/2024,15:07:56,SE,NE,Sunny,40,52,Bicycle,False
+Elm Avenue/Rabbit Road,17/06/2024,16:45:32,S,N,Foggy,40,25,Scooter,False
+Willow Lane/Park Avenue,17/06/2024,06:15:28,SW,N,Overcast,50,30,Scooter,True
+Willow Lane/Park Avenue,17/06/2024,15:15:46,S,W,Foggy,20,50,Truck,False
+Elm Avenue/Rabbit Road,17/06/2024,20:31:14,W,SE,Rainy,50,55,Scooter,True
+North Square/Broad Street,17/06/2024,00:28:51,W,S,Overcast,20,58,Car,False
+King's Road/Queen's Lane,17/06/2024,01:37:49,W,E,Foggy,20,26,Scooter,True
+Willow Lane/Park Avenue,17/06/2024,20:20:44,S,SE,Overcast,30,42,Car,False
+Hanley Highway/Westway,17/06/2024,18:39:45,NE,W,Overcast,20,50,Truck,False
+Willow Lane/Park Avenue,17/06/2024,08:58:00,NW,NE,Foggy,30,44,Scooter,True
+Willow Lane/Park Avenue,17/06/2024,05:14:22,SW,NE,Sunny,30,50,Motorcycle,True
+Willow Lane/Park Avenue,17/06/2024,17:41:53,S,N,Overcast,50,26,Truck,True
+Hanley Highway/Westway,17/06/2024,12:01:48,W,N,Sunny,50,28,Bicycle,False
+North Square/Broad Street,17/06/2024,05:14:44,NE,N,Rainy,50,46,Car,True
+Willow Lane/Park Avenue,17/06/2024,06:25:19,W,N,Cloudy,20,15,Truck,True
+Hanley Highway/Westway,17/06/2024,19:31:01,SW,SW,Overcast,20,32,Bicycle,False
+Willow Lane/Park Avenue,17/06/2024,14:55:09,SW,E,Sunny,50,14,Scooter,True
+King's Road/Queen's Lane,17/06/2024,18:53:43,S,SW,Overcast,40,15,Bicycle,True
+Willow Lane/Park Avenue,17/06/2024,06:02:06,SW,NE,Sunny,20,22,Car,False
+Hanley Highway/Westway,17/06/2024,12:25:03,N,S,Cloudy,50,44,Car,True
+Elm Avenue/Rabbit Road,17/06/2024,19:55:48,W,N,Rainy,20,34,Bus,True
+Elm Avenue/Rabbit Road,17/06/2024,14:13:33,SW,S,Sunny,50,7,Car,False
+Willow Lane/Park Avenue,17/06/2024,04:29:29,S,W,Cloudy,30,54,Motorcycle,True
+Elm Avenue/Rabbit Road,17/06/2024,13:24:13,SW,SE,Cloudy,50,60,Bicycle,True
+North Square/Broad Street,17/06/2024,11:39:43,S,SW,Rainy,50,26,Motorcycle,False
+Elm Avenue/Rabbit Road,17/06/2024,01:16:13,N,SE,Sunny,50,50,Truck,False
+North Square/Broad Street,17/06/2024,09:34:36,N,S,Cloudy,20,42,Scooter,False
+North Square/Broad Street,17/06/2024,00:22:21,E,NE,Cloudy,20,22,Bicycle,True
+North Square/Broad Street,17/06/2024,12:15:16,NE,NE,Foggy,30,14,Bicycle,True
+Willow Lane/Park Avenue,17/06/2024,07:27:58,NE,S,Sunny,50,11,Car,True
+Willow Lane/Park Avenue,17/06/2024,02:06:20,E,NE,Cloudy,50,48,Bicycle,True
+Hanley Highway/Westway,17/06/2024,12:53:36,NE,N,Sunny,40,33,Truck,False
+North Square/Broad Street,17/06/2024,16:37:23,SE,SW,Overcast,20,19,Bicycle,False
+Hanley Highway/Westway,17/06/2024,16:27:18,SW,E,Cloudy,40,59,Bicycle,True
+Elm Avenue/Rabbit Road,17/06/2024,07:54:06,SW,W,Overcast,40,9,Motorcycle,True
+Hanley Highway/Westway,17/06/2024,13:12:54,NW,SW,Rainy,30,59,Bus,False
+Hanley Highway/Westway,17/06/2024,13:29:22,NE,NW,Sunny,20,51,Bicycle,True
+Willow Lane/Park Avenue,17/06/2024,19:46:13,NW,SW,Rainy,20,27,Scooter,False
+King's Road/Queen's Lane,17/06/2024,07:51:03,E,S,Rainy,40,32,Scooter,False
+North Square/Broad Street,17/06/2024,17:44:16,SW,NW,Sunny,20,10,Scooter,False
+King's Road/Queen's Lane,17/06/2024,05:00:23,E,S,Cloudy,30,11,Motorcycle,False
+Hanley Highway/Westway,17/06/2024,14:15:55,S,SW,Cloudy,30,5,Motorcycle,False
+Elm Avenue/Rabbit Road,17/06/2024,19:43:28,NW,S,Rainy,20,28,Motorcycle,False
+Hanley Highway/Westway,17/06/2024,07:56:48,SE,NW,Cloudy,50,32,Car,True
+Willow Lane/Park Avenue,17/06/2024,10:41:09,SE,SW,Cloudy,40,27,Truck,True
+King's Road/Queen's Lane,17/06/2024,01:10:10,SE,SE,Sunny,20,12,Bicycle,False
+Willow Lane/Park Avenue,17/06/2024,01:30:59,S,S,Rainy,20,58,Car,False
+King's Road/Queen's Lane,17/06/2024,16:26:43,NW,SW,Foggy,20,8,Bus,True
+North Square/Broad Street,17/06/2024,11:08:15,N,N,Cloudy,20,14,Truck,False
+Elm Avenue/Rabbit Road,17/06/2024,11:31:07,SE,N,Rainy,30,35,Scooter,True
+Willow Lane/Park Avenue,17/06/2024,06:12:54,NW,S,Rainy,30,42,Truck,True
